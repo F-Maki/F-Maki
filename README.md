@@ -1,16 +1,14 @@
-### Hi there 👋
+# Felipe Maki
+Onde nasci: Curitiba
 
-<!--
-**F-Maki/F-Maki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objetivos pessoais 
+Meus objetivos pessoais são: Se tornar programador
 
-Here are some ideas to get you started:
+## Formação
+Eu estudo no: Tecpuc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# O que gosto de fazer
+Eu gosto de jogar 
+
+# O que não gosto de fazer 
+Eu não gosto do Picussa
